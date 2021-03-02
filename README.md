@@ -83,4 +83,4 @@ Feel free to create issues [here](https://github.com/viraldevpb/Bookmarker-Appli
 
 ## [Try it](https://github.com/viraldevpb/Bookmarker-Application-using-Javascript)
 
-## [Follow me on Instagram for daily coding posts](https://www.instagram.com/prathamesh_borse_pb/)
+## [Follow me on Instagram for daily coding posts](https://www.instagram.com/theshycoder/)
